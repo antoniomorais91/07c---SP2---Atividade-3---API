@@ -19,12 +19,12 @@ h2{
 .example-card {
     max-width: 400px;
   }
-  
+
   .example-header-image {
     background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
     background-size: auto;
   }
-  
+
   mat-grid-list{
     margin: 10px 0px;
   }
@@ -43,7 +43,7 @@ mat-card-header{
 mat-card-actions{
     display: flex;
     justify-content: space-around;
-  }  
+  }
 
   mat-card-actions p{
     color: red;
